@@ -1,0 +1,365 @@
+[{
+  "_id": {
+    "$oid": "63c699774dd9530803ed483e"
+  },
+  "title": "Backend Developer",
+  "company": "Pied Piper",
+  "location": "Pune",
+  "experience": "0",
+  "salary": "1-3",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1673959799411"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c699a54dd9530803ed4840"
+  },
+  "title": "Fullstack Developer",
+  "company": "Amazon",
+  "location": "Mumbai",
+  "experience": "0",
+  "salary": "4-6 ",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1673959845977"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c699cc4dd9530803ed4842"
+  },
+  "title": "Frontend Developer",
+  "company": "Razorpay",
+  "location": "Banglore",
+  "experience": "3-6",
+  "salary": "11-15",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1673959884940"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c69a1d4dd9530803ed4844"
+  },
+  "title": "Software Developer",
+  "company": "XYZ",
+  "location": "Noida",
+  "experience": "3-6",
+  "salary": "8 -10",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1673959965143"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c7781007f8bb8e18a77220"
+  },
+  "title": "UI/UX Designer",
+  "company": "XYZ",
+  "location": "Noida",
+  "experience": "1-2",
+  "salary": "1-3",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674016784374"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c7783c07f8bb8e18a77222"
+  },
+  "title": "Php Developer",
+  "company": "ABC",
+  "location": "Noida",
+  "experience": "1-2",
+  "salary": "1-3",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674016828466"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e10204c6aec539840915"
+  },
+  "title": "Php Developer",
+  "company": "Test",
+  "location": "Pune",
+  "experience": "7-10",
+  "salary": "11-15",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674109186402"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e7d804c6aec5398409a2"
+  },
+  "title": "Software Developer",
+  "company": "Infosys",
+  "location": "Banglore",
+  "experience": "1-2",
+  "salary": "4-6",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674110936990"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e7e404c6aec5398409a4"
+  },
+  "title": "Software Developer",
+  "company": "TCS",
+  "location": "Banglore",
+  "experience": "1-2",
+  "salary": "4-6",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674110948091"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e81304c6aec5398409a6"
+  },
+  "title": "Software Developer",
+  "company": "Accenture",
+  "location": "Mumbai",
+  "experience": "1-2",
+  "salary": "4-6",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674110995458"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e86104c6aec5398409b0"
+  },
+  "title": "Graphic Designer",
+  "company": "Unilever",
+  "location": "Pune",
+  "experience": "1-2",
+  "salary": "4-6",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674111073121"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e8a204c6aec5398409b2"
+  },
+  "title": "Graphic Designer",
+  "company": "Ainsoft",
+  "location": "Pune",
+  "experience": "3-6",
+  "salary": "4-6",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674111138573"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c919bb39815beecb965eb9"
+  },
+  "title": "Frontend Developer",
+  "company": "Wipro",
+  "location": "Delhi",
+  "experience": "3-6",
+  "salary": "4-6",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674123707950"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c919d239815beecb965ebb"
+  },
+  "title": "Fullstack Developer",
+  "company": "ABC",
+  "location": "Delhi",
+  "experience": "3-6",
+  "salary": "8-10",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674123730014"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c957a739815beecb965f2b"
+  },
+  "title": "Frontend developer",
+  "company": "ABC",
+  "location": "Delhi",
+  "experience": "3-6",
+  "salary": "4-6",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674139559008"
+    }
+  },
+  "__v": 0,
+  "type": "Foreign MNC",
+  "mode": "Work from office"
+},{
+  "_id": {
+    "$oid": "63cb8a720d073086cc5945bb"
+  },
+  "title": "Frontend developer",
+  "company": "ABC",
+  "location": "Delhi",
+  "experience": "3-6",
+  "salary": "4-6",
+  "type": "corporate",
+  "mode": "Work from office",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674283634667"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cb8b4f0d073086cc5945bd"
+  },
+  "title": "Fullstack developer",
+  "company": "test",
+  "location": "Delhi",
+  "experience": "3-6",
+  "salary": "4-6",
+  "type": "corporate",
+  "mode": "Work from office",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674283855865"
+    }
+  },
+  "__v": 0,
+  "qualifications": "BTech/BE"
+},{
+  "_id": {
+    "$oid": "63cba5f73178f398e1074f89"
+  },
+  "title": "Fullstack developer",
+  "company": "test",
+  "location": "Delhi",
+  "experience": "3-6",
+  "salary": "4-6",
+  "type": "indian MNC",
+  "mode": "Work from home",
+  "isActive": true,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674290679353"
+    }
+  },
+  "__v": 0,
+  "qualifications": "BTech/BE"
+},{
+  "_id": {
+    "$oid": "63d0c968eee528d4adfb0ca3"
+  },
+  "title": "Backend developer",
+  "company": "test1",
+  "location": "Banglore",
+  "qualifications": "BTech/BE",
+  "experience": "3-6",
+  "salary": "4-6",
+  "type": "indian MNC",
+  "mode": "Work from home",
+  "isActive": true,
+  "like": 8,
+  "disLike": 4,
+  "rating": 3,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674627432626"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0c9759f5bb61100c5d6f3"
+  },
+  "title": "Backend developer",
+  "company": "test company",
+  "location": "Delhi",
+  "qualifications": "BTech/BE",
+  "experience": "3-6",
+  "salary": "4-6",
+  "type": "indian MNC",
+  "mode": "hybrid",
+  "isActive": true,
+  "like": 0,
+  "disLike": 0,
+  "rating": 3,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674627445709"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0d48a2d5ea0191c607d24"
+  },
+  "title": "Backend developer",
+  "company": "test1",
+  "location": "Banglore",
+  "qualifications": "BTech/BE",
+  "experience": "3-6",
+  "salary": "4-6",
+  "type": "indian MNC",
+  "mode": "Work from home",
+  "isActive": true,
+  "like": 0,
+  "disLike": 0,
+  "rating": 3,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1674630282778"
+    }
+  },
+  "__v": 0
+}]

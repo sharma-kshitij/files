@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "63ad601c509bfa03f40bb728"
+  },
+  "name": "priya",
+  "email": "priya0987@gmail.com",
+  "password": "$2a$10$OvHMn49CBlNhmp.zNWMCIOl/DPpiHDM3qaw4h.0WJ7f55Zy315Ro6",
+  "profileCompleted": true,
+  "__v": 0,
+  "age": 12,
+  "gender": "Female",
+  "mobile": 1234567890,
+  "profileVideoLink": "https://vimeo.com/792862398",
+  "appliedJob": [
+    "63c8e7d804c6aec5398409a2",
+    "63c69a1d4dd9530803ed4844",
+    "63c8e81304c6aec5398409a6",
+    "63c8e7e404c6aec5398409a4",
+    "63c7783c07f8bb8e18a77222",
+    "63c8e10204c6aec539840915"
+  ],
+  "bookmarkJob": [
+    "63c8e81304c6aec5398409a6",
+    "63c7783c07f8bb8e18a77222"
+  ],
+  "likedJob": [
+    "63d0c968eee528d4adfb0ca3"
+  ]
+},{
+  "_id": {
+    "$oid": "63ca204dd5f4db342fef944d"
+  },
+  "name": "shivi",
+  "email": "shivi@gmail.com",
+  "password": "$2a$10$RAaAmEBnCDctvrRn8oEhLuuTKXUuhojrxQoPPUTlEQV50gZYphcja",
+  "mobile": 1232145678,
+  "age": 21,
+  "gender": "Female",
+  "profileCompleted": false,
+  "__v": 0,
+  "profileVideoLink": "https://vimeo.com/791047191"
+},{
+  "_id": {
+    "$oid": "63ca331ed5f4db342fef9499"
+  },
+  "name": "Demo",
+  "email": "Demo@gmail.com",
+  "password": "$2a$10$3IV8xR5rxUBzrAja3incaO5ZvLGJIfghx3wE0iy0SUar8v8EsvhD6",
+  "mobile": 989076543,
+  "age": 21,
+  "gender": "Female",
+  "profileCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ca3e87f576256d950a8d62"
+  },
+  "name": "demo2",
+  "email": "demo2@gmail.com",
+  "password": "$2a$10$d3Zb00lsNJjbzgu8yxW3O.G85OC4cxzQuBxx6MuluiJlP7KDFeCX2",
+  "mobile": 1234567890,
+  "age": 21,
+  "gender": "Female",
+  "profileCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ca86477273852efd233f98"
+  },
+  "name": "demo3",
+  "email": "demo3@gmail.com",
+  "password": "$2a$10$1/x126ofV5UJ.woA6QYauuZiCgyKXCJ/GRTZoW/EeRD/37XoLdlqy",
+  "mobile": 1236547895,
+  "age": 21,
+  "gender": "Female",
+  "profileCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ca97f1ad45cd9d92064d4e"
+  },
+  "name": "demo5",
+  "email": "demo5@gmail.com",
+  "password": "$2a$10$acPn1CkUX6sqd9UtOYYAZuGpdcO3WOOXt/hHmVgJ4ELC08t/Djy7i",
+  "mobile": 1236547892,
+  "age": 21,
+  "gender": "Female",
+  "profileCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cb604e1da4487bdd20887a"
+  },
+  "name": "demo6",
+  "email": "demo6@gmail.com",
+  "password": "$2a$10$zNXgLxaLqdYOrJ1oUAXiBeztTNsYMJL.7V0wabRCoP2jdHMjBEgvy",
+  "mobile": {
+    "$numberLong": "9889024257"
+  },
+  "age": 21,
+  "gender": "Female",
+  "profileCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbc5c480fa580618e01a78"
+  },
+  "name": "demo8",
+  "email": "demo8@gmail.com",
+  "password": "$2a$10$41QXKzD/jTdYg6gvdgZtU.v5VsgJbV3JYOi8QX4QaC0zXeF9zcoBu",
+  "mobile": 1236547890,
+  "age": 21,
+  "gender": "Female",
+  "profileCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6571e0081b1bc257e8ecc"
+  },
+  "name": "Shivangi Singh",
+  "email": "me.shivasingh.0987@gmail.com",
+  "password": "$2a$10$k61mym0N9jLJ4cin37YH3OomdaFeMQvd4bg1vgU.Xz/uNEC3bF01e",
+  "mobile": {
+    "$numberLong": "9889024257"
+  },
+  "age": 21,
+  "gender": "Female",
+  "appliedJob": [
+    "63c699cc4dd9530803ed4842",
+    "63c8e10204c6aec539840915",
+    "63c8e10204c6aec539840915",
+    "63c699774dd9530803ed483e"
+  ],
+  "bookmarkJob": [
+    "63c8e10204c6aec539840915",
+    "63c699774dd9530803ed483e"
+  ],
+  "profileCompleted": false,
+  "__v": 0,
+  "profileVideoLink": "https://vimeo.com/793903631"
+},{
+  "_id": {
+    "$oid": "63d665699ab13111458754ab"
+  },
+  "name": "kiran",
+  "email": "kiranlatasingh12345@gmail.com",
+  "password": "$2a$10$7bhVlhdh6er0l1Iv8OeJFOI/TVdc/iyy4cc7Y.dm1HHZXla7XMhCu",
+  "mobile": {
+    "$numberLong": "9889024257"
+  },
+  "age": 21,
+  "gender": "Female",
+  "appliedJob": [],
+  "bookmarkJob": [],
+  "profileCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d665b19ab13111458754ae"
+  },
+  "name": "ankita",
+  "email": "abc@gmail.com",
+  "password": "$2a$10$2yjoJ8whimjFLNumN9cqGOW5urm6sJbJdS19Dq87G6p0IAA97AMH.",
+  "mobile": {
+    "$numberLong": "9889024257"
+  },
+  "age": 21,
+  "gender": "Female",
+  "appliedJob": [],
+  "bookmarkJob": [
+    "63c69a1d4dd9530803ed4844"
+  ],
+  "profileCompleted": false,
+  "__v": 0
+}]

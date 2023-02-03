@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "63d9fd9032af5951bd033d4b"
+  },
+  "postedBy": {
+    "name": "Kshitij Sharma",
+    "email": "sharmakshitij250@gmail.com"
+  },
+  "job_title": "Software Developer",
+  "adminVerified": false,
+  "employment_type": "Internship",
+  "wfh": true,
+  "job_desc": "SWE Intern",
+  "skills": [
+    "Python, C++"
+  ],
+  "work_exp": {
+    "minExp": "1 Month",
+    "maxExp": "11 Months"
+  },
+  "salaryRange": {
+    "minSal": "2000/-",
+    "maxSal": "10000/-"
+  },
+  "location": "Delhi",
+  "industry": "IT",
+  "functionalArea": "Software Development",
+  "role": "Intern",
+  "vacancies": "2",
+  "education": {
+    "graduation": "B.Tech",
+    "diploma": ""
+  },
+  "questions": {
+    "q1": "",
+    "q2": "",
+    "q3": ""
+  },
+  "other": "",
+  "walkIn": false,
+  "walkIn_details": {
+    "start_date": null,
+    "duration": "",
+    "contact_person": "",
+    "contact_number": "",
+    "venue": "",
+    "google_maps_url": ""
+  },
+  "applied": [
+    "63d77dd33a9d8999f1cc5b67"
+  ],
+  "__v": 0,
+  " postedDate ": "2023-01-17T12:49:59.411+00:00",
+  "company": "TCS"
+},{
+  "_id": {
+    "$oid": "63da0935d15495c3746e32f2"
+  },
+  "postedBy": {
+    "name": "Kshitij Sharma",
+    "email": "sharmakshitij250@gmail.com"
+  },
+  "job_title": "Java Developer",
+  "adminVerified": false,
+  "employment_type": "Internship",
+  "wfh": true,
+  "job_desc": "SWE Intern",
+  "skills": [
+    "Python, C++"
+  ],
+  "work_exp": {
+    "minExp": "1 Month",
+    "maxExp": "11 Months"
+  },
+  "salaryRange": {
+    "minSal": "2000/-",
+    "maxSal": "10000/-"
+  },
+  "location": "Delhi",
+  "industry": "IT",
+  "functionalArea": "Software Development",
+  "role": "Intern",
+  "vacancies": "2",
+  "education": {
+    "graduation": "B.Tech",
+    "diploma": ""
+  },
+  "questions": {
+    "q1": "",
+    "q2": "",
+    "q3": ""
+  },
+  "other": "",
+  "walkIn": false,
+  "walkIn_details": {
+    "start_date": null,
+    "duration": "",
+    "contact_person": "",
+    "contact_number": "",
+    "venue": "",
+    "google_maps_url": ""
+  },
+  "applied": [
+    "63d77dd33a9d8999f1cc5b67"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da0c67d15495c3746e32f3"
+  },
+  "postedBy": {
+    "name": "Kshitij Sharma",
+    "email": "sharmakshitij250@gmail.com"
+  },
+  "job_title": "SWE Intern",
+  "adminVerified": false,
+  "employment_type": "Internship",
+  "wfh": true,
+  "job_desc": "SWE Intern",
+  "skills": [
+    "Python, C++"
+  ],
+  "work_exp": {
+    "minExp": "1 Month",
+    "maxExp": "11 Months"
+  },
+  "salaryRange": {
+    "minSal": "2000/-",
+    "maxSal": "10000/-"
+  },
+  "location": "Banglore",
+  "industry": "IT",
+  "functionalArea": "Software Development",
+  "role": "Intern",
+  "vacancies": "2",
+  "education": {
+    "graduation": "B.Tech",
+    "diploma": ""
+  },
+  "questions": {
+    "q1": "",
+    "q2": "",
+    "q3": ""
+  },
+  "other": "",
+  "walkIn": false,
+  "walkIn_details": {
+    "start_date": null,
+    "duration": "",
+    "contact_person": "",
+    "contact_number": "",
+    "venue": "",
+    "google_maps_url": ""
+  },
+  "applied": [
+    "63d77dd33a9d8999f1cc5b67"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da0c6ad15495c3746e32f4"
+  },
+  "postedBy": {
+    "name": "Kshitij Sharma",
+    "email": "sharmakshitij250@gmail.com"
+  },
+  "job_title": "Software Developer",
+  "adminVerified": false,
+  "employment_type": "Internship",
+  "wfh": true,
+  "job_desc": "SWE Intern",
+  "skills": [
+    "Python, C++"
+  ],
+  "work_exp": {
+    "minExp": "1 Month",
+    "maxExp": "11 Months"
+  },
+  "salaryRange": {
+    "minSal": "2000/-",
+    "maxSal": "10000/-"
+  },
+  "location": "Noida",
+  "industry": "IT",
+  "functionalArea": "Php Developer",
+  "role": "Intern",
+  "vacancies": "2",
+  "education": {
+    "graduation": "B.Tech",
+    "diploma": ""
+  },
+  "questions": {
+    "q1": "",
+    "q2": "",
+    "q3": ""
+  },
+  "other": "",
+  "walkIn": false,
+  "walkIn_details": {
+    "start_date": null,
+    "duration": "",
+    "contact_person": "",
+    "contact_number": "",
+    "venue": "",
+    "google_maps_url": ""
+  },
+  "applied": [
+    "63d77dd33a9d8999f1cc5b67"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da20e1d15495c3746e32f7"
+  },
+  "postedBy": {
+    "name": "Kshitij Sharma",
+    "email": "sharmakshitij250@gmail.com"
+  },
+  "job_title": "Software Developer",
+  "adminVerified": false,
+  "employment_type": "Internship",
+  "wfh": true,
+  "job_desc": "SWE Intern",
+  "skills": [
+    "Python, C++"
+  ],
+  "work_exp": {
+    "minExp": "1 Month",
+    "maxExp": "11 Months"
+  },
+  "salaryRange": {
+    "minSal": "2000/-",
+    "maxSal": "10000/-"
+  },
+  "location": "Delhi",
+  "industry": "IT",
+  "functionalArea": "Software Development",
+  "role": "Intern",
+  "vacancies": "2",
+  "education": {
+    "graduation": "B.Tech",
+    "diploma": ""
+  },
+  "questions": {
+    "q1": "",
+    "q2": "",
+    "q3": ""
+  },
+  "other": "",
+  "walkIn": false,
+  "walkIn_details": {
+    "start_date": null,
+    "duration": "",
+    "contact_person": "",
+    "contact_number": "",
+    "venue": "",
+    "google_maps_url": ""
+  },
+  "applied": [
+    "63d77dd33a9d8999f1cc5b67"
+  ],
+  "__v": 0,
+  " postedDate ": "2023-01-17T12:49:59.411+00:00"
+}]

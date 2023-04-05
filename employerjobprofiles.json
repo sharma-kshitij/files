@@ -1,34 +1,33 @@
 [{
   "_id": {
-    "$oid": "63d9fd9032af5951bd033d4b"
+    "$oid": "642b250ea921298b7ab0ebe1"
   },
   "postedBy": {
-    "name": "Kshitij Sharma",
-    "email": "sharmakshitij250@gmail.com"
+    "name": "Kshitij Sharma"
   },
-  "job_title": "Software Developer",
-  "adminVerified": false,
-  "employment_type": "Internship",
-  "wfh": true,
-  "job_desc": "SWE Intern",
+  "job_title": "Software Engineer",
+  "adminVerified": true,
+  "employment_type": "Full Time",
+  "wfh": false,
+  "job_desc": "Software Engineer",
   "skills": [
-    "Python, C++"
+    "Python"
   ],
   "work_exp": {
-    "minExp": "1 Month",
-    "maxExp": "11 Months"
+    "minExp": null,
+    "maxExp": null
   },
   "salaryRange": {
-    "minSal": "2000/-",
-    "maxSal": "10000/-"
+    "minSal": 35,
+    "maxSal": 55
   },
   "location": "Delhi",
   "industry": "IT",
-  "functionalArea": "Software Development",
-  "role": "Intern",
-  "vacancies": "2",
+  "functionalArea": "IT",
+  "role": "Software Engineer",
+  "vacancies": "",
   "education": {
-    "graduation": "B.Tech",
+    "graduation": "",
     "diploma": ""
   },
   "questions": {
@@ -46,43 +45,109 @@
     "venue": "",
     "google_maps_url": ""
   },
-  "applied": [
-    "63d77dd33a9d8999f1cc5b67"
-  ],
-  "__v": 0,
-  " postedDate ": "2023-01-17T12:49:59.411+00:00",
-  "company": "TCS"
+  "applied": [],
+  "mode": "Work from office",
+  "testrole": "Software Developer",
+  "companyType": "indian MNC",
+  "testEducation": "",
+  "like": 0,
+  "dislike": 0,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1680549134519"
+    }
+  },
+  "__v": 0
 },{
   "_id": {
-    "$oid": "63da0935d15495c3746e32f2"
+    "$oid": "642d4cfb0d0f0aeee4935c53"
   },
   "postedBy": {
-    "name": "Kshitij Sharma",
-    "email": "sharmakshitij250@gmail.com"
+    "name": "Kshitij Sharma"
   },
-  "job_title": "Java Developer",
-  "adminVerified": false,
-  "employment_type": "Internship",
-  "wfh": true,
-  "job_desc": "SWE Intern",
+  "job_title": "Mern Stack Developer",
+  "adminVerified": true,
+  "employment_type": "Full Time",
+  "wfh": false,
+  "job_desc": "Mern Stack Developer",
   "skills": [
-    "Python, C++"
+    "Javascript, Reactjs, Nodejs, Express,js"
   ],
   "work_exp": {
-    "minExp": "1 Month",
-    "maxExp": "11 Months"
+    "minExp": 1,
+    "maxExp": 3
   },
   "salaryRange": {
-    "minSal": "2000/-",
-    "maxSal": "10000/-"
+    "minSal": 5,
+    "maxSal": 9
+  },
+  "location": "Remote",
+  "industry": "IT",
+  "functionalArea": "IT",
+  "role": "Developer",
+  "vacancies": "",
+  "education": {
+    "graduation": "",
+    "diploma": ""
+  },
+  "questions": {
+    "q1": "",
+    "q2": "",
+    "q3": ""
+  },
+  "other": "",
+  "walkIn": false,
+  "walkIn_details": {
+    "start_date": null,
+    "duration": "",
+    "contact_person": "",
+    "contact_number": "",
+    "venue": "",
+    "google_maps_url": ""
+  },
+  "applied": [],
+  "mode": "Work from home",
+  "testrole": "Full Stack Developer",
+  "companyType": "startup",
+  "testEducation": "",
+  "like": 0,
+  "dislike": 0,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1680690427335"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d4d4d0d0f0aeee4935c56"
+  },
+  "postedBy": {
+    "name": "Kshitij Sharma"
+  },
+  "job_title": "Machine Learning Engineer",
+  "adminVerified": true,
+  "employment_type": "Full Time",
+  "wfh": false,
+  "job_desc": "Machine Learning Engineer",
+  "skills": [
+    "Python, Machine Learning"
+  ],
+  "work_exp": {
+    "minExp": 1,
+    "maxExp": 2
+  },
+  "salaryRange": {
+    "minSal": 8,
+    "maxSal": 12
   },
   "location": "Delhi",
   "industry": "IT",
-  "functionalArea": "Software Development",
-  "role": "Intern",
-  "vacancies": "2",
+  "functionalArea": "IT",
+  "role": "Machine Learning Engineer",
+  "vacancies": "",
   "education": {
-    "graduation": "B.Tech",
+    "graduation": "",
     "diploma": ""
   },
   "questions": {
@@ -100,165 +165,17 @@
     "venue": "",
     "google_maps_url": ""
   },
-  "applied": [
-    "63d77dd33a9d8999f1cc5b67"
-  ],
+  "applied": [],
+  "mode": "Work from office",
+  "testrole": "Software Developer",
+  "companyType": "foreign MNC",
+  "testEducation": "",
+  "like": 0,
+  "dislike": 0,
+  "postedDate": {
+    "$date": {
+      "$numberLong": "1680690509870"
+    }
+  },
   "__v": 0
-},{
-  "_id": {
-    "$oid": "63da0c67d15495c3746e32f3"
-  },
-  "postedBy": {
-    "name": "Kshitij Sharma",
-    "email": "sharmakshitij250@gmail.com"
-  },
-  "job_title": "SWE Intern",
-  "adminVerified": false,
-  "employment_type": "Internship",
-  "wfh": true,
-  "job_desc": "SWE Intern",
-  "skills": [
-    "Python, C++"
-  ],
-  "work_exp": {
-    "minExp": "1 Month",
-    "maxExp": "11 Months"
-  },
-  "salaryRange": {
-    "minSal": "2000/-",
-    "maxSal": "10000/-"
-  },
-  "location": "Banglore",
-  "industry": "IT",
-  "functionalArea": "Software Development",
-  "role": "Intern",
-  "vacancies": "2",
-  "education": {
-    "graduation": "B.Tech",
-    "diploma": ""
-  },
-  "questions": {
-    "q1": "",
-    "q2": "",
-    "q3": ""
-  },
-  "other": "",
-  "walkIn": false,
-  "walkIn_details": {
-    "start_date": null,
-    "duration": "",
-    "contact_person": "",
-    "contact_number": "",
-    "venue": "",
-    "google_maps_url": ""
-  },
-  "applied": [
-    "63d77dd33a9d8999f1cc5b67"
-  ],
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "63da0c6ad15495c3746e32f4"
-  },
-  "postedBy": {
-    "name": "Kshitij Sharma",
-    "email": "sharmakshitij250@gmail.com"
-  },
-  "job_title": "Software Developer",
-  "adminVerified": false,
-  "employment_type": "Internship",
-  "wfh": true,
-  "job_desc": "SWE Intern",
-  "skills": [
-    "Python, C++"
-  ],
-  "work_exp": {
-    "minExp": "1 Month",
-    "maxExp": "11 Months"
-  },
-  "salaryRange": {
-    "minSal": "2000/-",
-    "maxSal": "10000/-"
-  },
-  "location": "Noida",
-  "industry": "IT",
-  "functionalArea": "Php Developer",
-  "role": "Intern",
-  "vacancies": "2",
-  "education": {
-    "graduation": "B.Tech",
-    "diploma": ""
-  },
-  "questions": {
-    "q1": "",
-    "q2": "",
-    "q3": ""
-  },
-  "other": "",
-  "walkIn": false,
-  "walkIn_details": {
-    "start_date": null,
-    "duration": "",
-    "contact_person": "",
-    "contact_number": "",
-    "venue": "",
-    "google_maps_url": ""
-  },
-  "applied": [
-    "63d77dd33a9d8999f1cc5b67"
-  ],
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "63da20e1d15495c3746e32f7"
-  },
-  "postedBy": {
-    "name": "Kshitij Sharma",
-    "email": "sharmakshitij250@gmail.com"
-  },
-  "job_title": "Software Developer",
-  "adminVerified": false,
-  "employment_type": "Internship",
-  "wfh": true,
-  "job_desc": "SWE Intern",
-  "skills": [
-    "Python, C++"
-  ],
-  "work_exp": {
-    "minExp": "1 Month",
-    "maxExp": "11 Months"
-  },
-  "salaryRange": {
-    "minSal": "2000/-",
-    "maxSal": "10000/-"
-  },
-  "location": "Delhi",
-  "industry": "IT",
-  "functionalArea": "Software Development",
-  "role": "Intern",
-  "vacancies": "2",
-  "education": {
-    "graduation": "B.Tech",
-    "diploma": ""
-  },
-  "questions": {
-    "q1": "",
-    "q2": "",
-    "q3": ""
-  },
-  "other": "",
-  "walkIn": false,
-  "walkIn_details": {
-    "start_date": null,
-    "duration": "",
-    "contact_person": "",
-    "contact_number": "",
-    "venue": "",
-    "google_maps_url": ""
-  },
-  "applied": [
-    "63d77dd33a9d8999f1cc5b67"
-  ],
-  "__v": 0,
-  " postedDate ": "2023-01-17T12:49:59.411+00:00"
 }]
